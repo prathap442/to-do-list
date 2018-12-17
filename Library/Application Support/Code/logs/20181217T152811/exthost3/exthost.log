@@ -1,0 +1,10 @@
+[2018-12-17 15:54:37.061] [exthost] [info] extension host started
+[2018-12-17 15:54:37.086] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2018-12-17 15:54:37.086] [exthost] [info] ExtensionService#loadCommonJSModule /private/var/folders/pq/s5s5f3g1715_64lg9j1qyjk00000gn/T/AppTranslocation/2DB4D3F2-B463-4745-B65D-BB697E5A3A2E/d/Visual Studio Code.app/Contents/Resources/app/extensions/debug-auto-launch/dist/extension
+[2018-12-17 15:54:37.090] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-12-17 15:54:37.090] [exthost] [info] ExtensionService#loadCommonJSModule /private/var/folders/pq/s5s5f3g1715_64lg9j1qyjk00000gn/T/AppTranslocation/2DB4D3F2-B463-4745-B65D-BB697E5A3A2E/d/Visual Studio Code.app/Contents/Resources/app/extensions/emmet/dist/extension
+[2018-12-17 15:54:37.099] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-12-17 15:54:37.099] [exthost] [info] ExtensionService#loadCommonJSModule /private/var/folders/pq/s5s5f3g1715_64lg9j1qyjk00000gn/T/AppTranslocation/2DB4D3F2-B463-4745-B65D-BB697E5A3A2E/d/Visual Studio Code.app/Contents/Resources/app/extensions/git/dist/main
+[2018-12-17 15:54:37.127] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-12-17 15:54:37.127] [exthost] [info] ExtensionService#loadCommonJSModule /private/var/folders/pq/s5s5f3g1715_64lg9j1qyjk00000gn/T/AppTranslocation/2DB4D3F2-B463-4745-B65D-BB697E5A3A2E/d/Visual Studio Code.app/Contents/Resources/app/extensions/merge-conflict/dist/extension
+[2018-12-17 15:54:37.131] [exthost] [info] eager extensions activated

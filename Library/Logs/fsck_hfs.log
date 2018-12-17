@@ -1,0 +1,15 @@
+
+fsck_hfs started at Mon Dec 17 14:35:37 2018
+** /dev/rdisk2s2 (NO WRITE)
+   Executing fsck_hfs (version hfs-407.50.6).
+** Checking non-journaled HFS Plus Volume.
+   The volume name is Google Chrome
+** Checking extents overflow file.
+** Checking catalog file.
+** Checking multi-linked files.
+** Checking catalog hierarchy.
+** Checking volume bitmap.
+** Checking volume information.
+** The volume Google Chrome appears to be OK.
+fsck_hfs completed at Mon Dec 17 14:35:37 2018
+

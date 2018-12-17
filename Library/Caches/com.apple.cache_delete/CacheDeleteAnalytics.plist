@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DateStarted</key>
+	<date>2018-12-17T08:03:15Z</date>
+	<key>dailyActiveTimePurgeableS</key>
+	<real>4.2496530340000005</real>
+	<key>dailyActiveTimeS</key>
+	<real>4.2496530340000005</real>
+	<key>dailyNumDesiredDiskBroadcastsAll</key>
+	<integer>1</integer>
+	<key>dailyNumDesiredDiskBroadcastsRoot</key>
+	<integer>1</integer>
+	<key>dailyPurgeableReqs</key>
+	<integer>68</integer>
+</dict>
+</plist>
