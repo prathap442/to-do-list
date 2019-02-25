@@ -1,0 +1,4 @@
+gem 'rspec' #now the rspec gem here is used for testing
+gem 'coderay' #gem code ray is used for the syntax highlighting
+gem 'rack-test' #racktest is used to provide an environment to provide apis for the webservices
+gem 'sinatra'#gem sinatra is used for providing the light weight sweet spot for testing
